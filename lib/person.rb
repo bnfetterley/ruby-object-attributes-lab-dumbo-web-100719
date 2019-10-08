@@ -13,7 +13,7 @@ def job=(person_job)
   @job = person_job
 end
 
-def breed 
-  @breed
+def job
+  @job
 end 
 end 
